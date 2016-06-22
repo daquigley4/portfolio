@@ -10,6 +10,14 @@
 
 Tic Tac Toe Wars is a simple, two player, turn-based strategy game.  The objective is to align 3 alike pieces in the same row, column, or diagonal.  The first player to do so wins the game.
 
+####Technologies Used:
+-Languages: HTML5, CSS3, JavaScript, jQuery
+
+-Design: wireframe(balsamiq), Google fonts
+
+-Text Editor: Sublime 3
+
+-Project Management: Trello
 
 ##2. Goals with Friends!
 
