@@ -15,7 +15,7 @@ Tic Tac Toe Wars is a simple, two player, turn-based strategy game.  The objecti
 
 [Goals with Friends - application](https://goals-with-friends.herokuapp.com/)
 
-[GitHub: Goals with Friends - repository](http://daquigley4.github.io/goals_with_friends/)
+[GitHub: Goals with Friends - repository](https://github.com/daquigley4/goals_with_friends)
 
 ![Alt Image Text](goals-with-friends.png "Screenshot")
 
